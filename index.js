@@ -127,11 +127,11 @@ function rectangularCollision ({rectangle1, rectangle2}) {
 function animate() {
   window.requestAnimationFrame(animate)
   background.draw()
-  boundaries.forEach(boundary => {
+/*   boundaries.forEach(boundary => {
     boundary.draw()
 
 
-  }) 
+  })  */
   player.draw()
 
  
