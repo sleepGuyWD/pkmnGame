@@ -3,6 +3,8 @@ Welcome to the PkmnGame repository! This project was born out of my passion for 
 
 **Link to Project:** https://github.com/sleepGuyWD/PkmnGame
 
+![pkmn](https://media3.giphy.com/media/xJbJWJmc6mekpEJiEx/giphy.gif)
+
 ## How It's Made:
 **Tech used:** HTML, JavaScript, Tiled
 
